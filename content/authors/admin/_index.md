@@ -66,6 +66,16 @@ social:
 # - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! My name is Francois and I am a Master's student at HEC Montreal. When I'm not studying, you are likely to find me in the kitchen or at the gym!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In this blog, I will mostly detail my journey to become a machine learning developper. 
+
+A little bit of backstory:
+
+I graduated university with a bachelor's in business administration and a certificate in computer science. I felt like I had still much more to learn, so I pursued my studies at HEC Montreal. There, I was able to find something I was truly passionate about, but I felt like I missed quite a bit of knowledge to fully understand the concepts. 
+
+This leads me to my project, which is to self learn computer science, mathematics and algortihms. My curriculum is loosely based on the OSSU curriculum [available here](https://ossu.firebaseapp.com/#/curriculum) and the guide by Oz Nova and Myles Byrner [teachyourselfcs](https://teachyourselfcs.com). Obviously, I will be putting more emphasis on mahetmatics and statistics. 
+
+I invite you to visite my [Github](https://github.com/francoisdoanp/cscurriculum) for my exercises solutions.
+
+
