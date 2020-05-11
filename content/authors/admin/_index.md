@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Francois Doan Pope
+title: Francois Doan
 
 # Username (this should match the folder name)
 authors:
