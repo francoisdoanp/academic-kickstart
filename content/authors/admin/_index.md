@@ -47,7 +47,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/francoisdoanp/
-  - icon: github
+- icon: github
   icon_pack: fab
   link: https://github.com/francoisdoanp
 # Link to a PDF of your resume/CV from the About widget.
