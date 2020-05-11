@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Francois Doan-Pope
+title: Francois Doan Pope
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: M.Sc. Student self teaching CS.
+role: M.Sc. Student self teaching CS
 
 # Organizations/Affiliations
 organizations:
 - name: HEC Montreal
-  url: "https://www.hec.ca/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Interest for machine learning. Self-learning CS and mathematics. 
