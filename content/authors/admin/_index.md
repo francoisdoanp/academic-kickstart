@@ -74,7 +74,7 @@ A little bit of backstory:
 
 I graduated university with a bachelor's in business administration and a certificate in computer science. I felt like I had still much more to learn, so I pursued my studies at HEC Montreal. There, I was able to find something I was truly passionate about, but I felt like I missed quite a bit of knowledge to fully understand the concepts. 
 
-This leads me to my project, which is to self learn computer science, mathematics and algortihms. My curriculum is loosely based on the OSSU curriculum [available here](https://ossu.firebaseapp.com/#/curriculum) and the guide by Oz Nova and Myles Byrner [teachyourselfcs](https://teachyourselfcs.com). Obviously, I will be putting more emphasis on mahetmatics and statistics. 
+This leads me to my project, which is to self learn computer science, mathematics and algortihms. My curriculum is loosely based on the [OSSU curriculum](https://ossu.firebaseapp.com/#/curriculum) and the guide by Oz Nova and Myles Byrner [teachyourselfcs](https://teachyourselfcs.com). Obviously, I will be putting more emphasis on mahetmatics and statistics. 
 
 I invite you to visite my [Github](https://github.com/francoisdoanp/cscurriculum) for my exercises solutions.
 
