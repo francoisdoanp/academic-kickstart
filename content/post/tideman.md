@@ -12,5 +12,6 @@ Well, Tideman took a whole week to complete, which would be around 30 hours. The
 
 The time spent on Tideman cut the hours I had planned for MIT6042. Squeezing in more hours allowed me to finish lecture 1 and 2, as well as recitation 1, which was a lot of fun. However, I am realizing that my math level is quite low. Therefore, I modified my curriculum to add more math classes, which I think will prepare me better for machine learning.
 
-Keep on learning,
+Keep on learning
+
 Francois
