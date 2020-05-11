@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interest for machine learning. Self-learning CS and mathematics. 
+bio: Aspiring machine learning engineer, self-learning CS and mathematics. 
 
 interests:
 - Machine Learning
@@ -68,7 +68,7 @@ social:
 
 Hi! My name is Francois and I am a Master's student at HEC Montreal. When I'm not studying, you are likely to find me in the kitchen or at the gym!
 
-In this blog, I will mostly detail my journey to become a machine learning developper. 
+In this blog, I will mostly detail my journey to become a machine learning engineer. 
 
 A little bit of backstory:
 
